@@ -706,7 +706,7 @@ footer {
         /* Start off-screen */
         width: 40%;
         max-width: 300px;
-        height: 40vh;
+        height: 45vh;
         border-radius: 12px;
         background-color: rgba(255, 255, 255, 0.98);
         backdrop-filter: blur(10px);
